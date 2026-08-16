@@ -1,0 +1,4 @@
+{
+  "original_base_image": "open-liberty:full-java17-openj9",
+  "status": "analyzed"
+}
